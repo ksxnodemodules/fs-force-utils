@@ -1,0 +1,12 @@
+
+{
+    "name": "fs-force-utils",
+    "version": "0.0.0",
+    "main": "index.js",
+    "dependencies": {
+        "fs-one-promise-queue": ">=1.0.0 <2.0.0"
+    },
+    "engines": {
+        "node": ">= 6.0.0"
+    }
+}
